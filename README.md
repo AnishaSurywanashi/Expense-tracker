@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![FinanceFlow Banner](https://images.unsplash.com/photo-1611974714024-462cd9312dc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 **A premium, full-stack MERN expense tracker with a stunning 3D UI, real-time analytics, and smart budgeting tools.**
 
@@ -180,14 +179,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
-<div align="center">
 
-*Built with ❤️ by [Anisha Surywanashi](https://github.com/AnishaSurywanashi)*
 
 </div>
