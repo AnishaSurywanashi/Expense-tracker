@@ -1,5 +1,8 @@
 {
   "name": "expense-tracker-mern",
+  "engines": {
+    "node": "18.x"
+  },
   "version": "1.0.0",
   "description": "Backend for expense tracker",
   "main": "server.js",
